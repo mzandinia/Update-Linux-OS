@@ -1,4 +1,4 @@
-# Week 4: Automating Linux Distribution Updates with Ansible and Monitoring with Splunk
+# Automating Linux Distribution Updates with Ansible and Monitoring with Splunk
 
 ## Description
 
